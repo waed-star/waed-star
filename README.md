@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @waed-star
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning TypeScript and React Native
+- 📫 Feel free to email me or call me!
+- Email: waedyasser@outlook.com
+- Phone no.: +447470773214
