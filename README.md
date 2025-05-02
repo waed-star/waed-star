@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on IVC Evidensia's newest e-commerce platform, the FilmFinder app, and the Lantern app.<br>I'm looking to collaborate on open source software or startups.<br>Fun fact: I'm a food enthusiast and leave Google reviews, my reviews have now received over 1.1 million views!
+I'm currently working on IVC Evidensia's newest e-commerce platform, the Film Finder app, and the Lantern app.<br>I'm looking to collaborate on open source software or startups.<br>Fun fact: I'm a food enthusiast and leave Google reviews, my reviews have now received over 1.1 million views!
 
 
 ## 🌐 Socials:
