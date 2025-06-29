@@ -7,7 +7,7 @@ I'm currently working on IVC Evidensia's newest e-commerce platform, the Film Fi
 
 ## 🚀 Download
 
-Get the latest version of my Horror Adventure game:
+Get the latest version of my Horror Adventure game 🧟‍♂️
 
 | Platform | File |
 |----------|------|
